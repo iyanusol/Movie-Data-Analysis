@@ -26,6 +26,7 @@ Action|Adventure|Science Fiction
 Comedy|Drama
 Thriller|Crime
 
+![Movie Genre Analysis](https://raw.githubusercontent.com/iyanusol/Movie-Data-Analysis/main/movie%20project%20images/movies4.png)
 
 Because movies can belong to multiple genres, the dataset required transformation before analysis.
 
@@ -47,6 +48,8 @@ movies['profit'] = movies['revenue'] - movies['budget']
 ## 🔀 Splitting the Genre Column
 The dataset originally stored multiple genres in a single column separated by |.
 Example:
+
+![Movie Genre Analysis](https://raw.githubusercontent.com/iyanusol/Movie-Data-Analysis/main/movie%20project%20images/movies7.png)
 
 ```
 Action|Adventure|Science Fiction
@@ -89,6 +92,7 @@ The analysis revealed interesting trends:
 • Comedy movies generally have lower budgets but can still achieve strong profitability.
 • Some niche genres such as Documentary or Foreign films have lower average revenue but often require smaller budgets.
 
+![Movie Genre Analysis](https://raw.githubusercontent.com/iyanusol/Movie-Data-Analysis/main/movie%20project%20images/movies2.png)
 
 ##📊 Visualization Example
 Visualizing genre popularity helps identify which genres appear most frequently in the dataset.
@@ -109,6 +113,7 @@ This project explores several important questions:
 4️⃣ Are higher budgets associated with higher profits?
 5️⃣ Which genres have the highest average ratings?
 
+![Movie Genre Analysis](https://raw.githubusercontent.com/iyanusol/Movie-Data-Analysis/main/movie%20project%20images/movies3.png)
 
 ## 🧠 Skills Demonstrated
 
