@@ -1,6 +1,8 @@
 # 🎬 Movie Genres Data Analysis Project
 ## 📊 Overview
 
+![Movie Genre Analysis](https://raw.githubusercontent.com/iyanusol/Movie-Data-Analysis/main/download.png)
+
 This project explores a dataset of movies to uncover patterns between movie genres, budgets, revenues, popularity, and profitability. Using Python and Pandas, the analysis focuses on how different genres perform financially and how genre combinations influence movie success.
 
 The goal of this project is to demonstrate data cleaning, transformation, and exploratory data analysis techniques commonly used in real-world data analytics workflows.
